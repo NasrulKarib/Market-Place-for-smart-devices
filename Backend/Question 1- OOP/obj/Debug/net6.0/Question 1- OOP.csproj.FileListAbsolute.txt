@@ -1,0 +1,14 @@
+D:\Programming\Edge Course\Test\1. Mid_Nasrul-Kaib\Backend\Ques 1\Question 1- OOP\bin\Debug\net6.0\Question 1- OOP.exe
+D:\Programming\Edge Course\Test\1. Mid_Nasrul-Kaib\Backend\Ques 1\Question 1- OOP\bin\Debug\net6.0\Question 1- OOP.deps.json
+D:\Programming\Edge Course\Test\1. Mid_Nasrul-Kaib\Backend\Ques 1\Question 1- OOP\bin\Debug\net6.0\Question 1- OOP.runtimeconfig.json
+D:\Programming\Edge Course\Test\1. Mid_Nasrul-Kaib\Backend\Ques 1\Question 1- OOP\bin\Debug\net6.0\Question 1- OOP.dll
+D:\Programming\Edge Course\Test\1. Mid_Nasrul-Kaib\Backend\Ques 1\Question 1- OOP\bin\Debug\net6.0\Question 1- OOP.pdb
+D:\Programming\Edge Course\Test\1. Mid_Nasrul-Kaib\Backend\Ques 1\Question 1- OOP\obj\Debug\net6.0\Question 1- OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Edge Course\Test\1. Mid_Nasrul-Kaib\Backend\Ques 1\Question 1- OOP\obj\Debug\net6.0\Question 1- OOP.AssemblyInfoInputs.cache
+D:\Programming\Edge Course\Test\1. Mid_Nasrul-Kaib\Backend\Ques 1\Question 1- OOP\obj\Debug\net6.0\Question 1- OOP.AssemblyInfo.cs
+D:\Programming\Edge Course\Test\1. Mid_Nasrul-Kaib\Backend\Ques 1\Question 1- OOP\obj\Debug\net6.0\Question 1- OOP.csproj.CoreCompileInputs.cache
+D:\Programming\Edge Course\Test\1. Mid_Nasrul-Kaib\Backend\Ques 1\Question 1- OOP\obj\Debug\net6.0\Question 1- OOP.dll
+D:\Programming\Edge Course\Test\1. Mid_Nasrul-Kaib\Backend\Ques 1\Question 1- OOP\obj\Debug\net6.0\refint\Question 1- OOP.dll
+D:\Programming\Edge Course\Test\1. Mid_Nasrul-Kaib\Backend\Ques 1\Question 1- OOP\obj\Debug\net6.0\Question 1- OOP.pdb
+D:\Programming\Edge Course\Test\1. Mid_Nasrul-Kaib\Backend\Ques 1\Question 1- OOP\obj\Debug\net6.0\Question 1- OOP.genruntimeconfig.cache
+D:\Programming\Edge Course\Test\1. Mid_Nasrul-Kaib\Backend\Ques 1\Question 1- OOP\obj\Debug\net6.0\ref\Question 1- OOP.dll
